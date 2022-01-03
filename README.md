@@ -14,7 +14,7 @@ Thanks to:
 
 Installation:
 ************
-- Install Ndless 3.1 on your calculator
+- Install Ndless on your calculator
 - send "ndoom.tns" to your calculator
 - take Doom/DoomII compatible IWAD files and change their extensions from ".wad" to ".wad.tns"
 - send the ".wad.tns" files to your calculator
@@ -28,10 +28,10 @@ There exists two types of WAD files:
 - IWAD files which include complete game data
 - PWAD files which are patches with partial data, designed to be loaded over an IWAD
 
-nDoom currently only supports IWAD files.
-Note that most 3rd party WAD files available on the Internet are PWAD files, and won't work with the current version.
+nDoom mainly targets IWAD files and has partial support for PWAD files.
+Note that most 3rd party WAD files available on the Internet are PWAD files and won't work.
 
-Only IWAD files compatible with the Doom or Doom II format are supported. IWAD files from other Id Software games (Heretic, Hexen...) won't work.
+Only IWAD/PWAD files compatible with the Doom or Doom II original engine are supported. IWAD/PWAD files from other Id Software games (Heretic, Hexen...) won't work.
 
 The Id Software supported IWAD files are:
 - Doom ShareWare 	(usually "doom1.wad")		(Doom IWAD format)
