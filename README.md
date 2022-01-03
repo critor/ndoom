@@ -1,10 +1,10 @@
 nDoom
-by Critor
 
 
 Credits to:
-- Mrakoplaz for the initial Nspire port
 - Id Software for creating the game
+- Mrakoplaz for the initial Nspire port
+- Critor for the Nspire CX port
 
 Thanks to:
 - the TI-Planet community	-> http://tiplanet.org (french)
