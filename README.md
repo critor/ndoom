@@ -70,27 +70,27 @@ Controls:
 
 + in game:
 
-Action			| 
-------------------------+---------------------------
-Forward			| 8 Up arrow
-Backward		| 2 Down arrow
-Turn left		| 4 Left arrow
-Turn right		| 6 Right arrow
-Forward + turn left	| 7 Up-Left arrow
-Forward + turn right	| 9 Up-Right arrow
-Backward + turn left	| 1 Down-Left arrow
-Backward + turn right	| 3 Down-Right arrow
-Strafe left		| Scratchpad Tab x² /
-Strafe right		| Doc Menu x ^
-Shoot			| Ctrl del 5 . (-)
-Use			| Shift Space 0 Enter Return
-Weapons 1/2/3/4/5/6/7	| A B C D E F G
-Map			| Home ? ?!>
-Run			| Click Trig = |
-Contrast / Brightness	| + -
-Quicksave		| Var
-Quickload		| Library
-Quit			| Esc
+| Action | Key | 
+|---|---|
+| Forward | 8 Up arrow |
+| Backward | 2 Down arrow |
+| Turn left | 4 Left arrow |
+| Turn right | 6 Right arrow |
+| Forward + turn left | 7 Up-Left arrow |
+| Forward + turn right | 9 Up-Right arrow |
+| Backward + turn left | 1 Down-Left arrow |
+| Backward + turn right | 3 Down-Right arrow |
+| Strafe left | Scratchpad Tab x² / |
+| Strafe right | Doc Menu x ^ |
+| Shoot | Ctrl del 5 . (-) |
+| Use | Shift Space 0 Enter Return |
+| Weapons 1/2/3/4/5/6/7	| A B C D E F G |
+| Map | Home ? ?!> |
+| Run | Click Trig = | |
+| Contrast / Brightness	| + - |
+| Quicksave | Var |
+| Quickload | Library |
+| Quit | Esc |
 
 
 
